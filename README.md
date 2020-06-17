@@ -1,4 +1,5 @@
-# Welcome to transcribr - A Transcription Deconstructor Zoom transcripts 
+# Welcome to transcribr
+# A Transcription Deconstructor for Zoom transcripts 
 
 This simple, and mildly sketchily code, tool cleans up a Zoom transcript for you by doing the following:
 

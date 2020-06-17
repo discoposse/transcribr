@@ -15,6 +15,8 @@ All you need to do is name your source file `source.vtt` in the same folder as t
 ruby transcribr.rb
 ```
 
+The output will be to the screen and also to a file named `output.txt` which is recreated every time you run the process.
+
 ## Before and After
 
 This is what the before and after looks like as an example:

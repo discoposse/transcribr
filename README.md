@@ -1,7 +1,6 @@
-# Welcome to transcribr
-# A Transcription Deconstructor for Zoom transcripts 
+# Transcribr - Transcription Deconstructor for Zoom transcripts 
 
-This simple, and mildly sketchily code, tool cleans up a Zoom transcript for you by doing the following:
+This simple tool cleans up a Zoom transcript for you by doing the following:
 
 * Remove timestamps
 * Remove blank lines
@@ -10,11 +9,21 @@ This simple, and mildly sketchily code, tool cleans up a Zoom transcript for you
 
 ## How to Use Transcribr
 
-All you need to do is name your source file source.vtt in the same folder as the transcribr.rb file and then run:
+All you need to do is name your source file `source.vtt` in the same folder as the transcribr.rb file and then run:
 
 ```
 ruby transcribr.rb
 ```
+
+## Before and After
+
+Thi
+
+![alt text](https://github.com/discoposse/transcribr/raw/master/images/before.png "Before Transcribr")
+
+![alt text](https://github.com/discoposse/transcribr/raw/master/images/after.png "After Transcribr")
+
+
 
 ## Why is it spelled Transcribr?
 

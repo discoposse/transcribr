@@ -17,9 +17,13 @@ ruby transcribr.rb
 
 ## Before and After
 
-Thi
+This is what the before and after looks like as an example:
+
+BEFORE:
 
 ![alt text](https://github.com/discoposse/transcribr/raw/master/images/before.png "Before Transcribr")
+
+AFTER:
 
 ![alt text](https://github.com/discoposse/transcribr/raw/master/images/after.png "After Transcribr")
 

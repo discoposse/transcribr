@@ -1,4 +1,5 @@
 *.vtt
+output.txt
 *.gem
 *.rbc
 /.config

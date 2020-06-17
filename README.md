@@ -1,6 +1,16 @@
 # Transcribr - Transcription Deconstructor for Zoom transcripts 
 
-This simple tool cleans up a Zoom transcript for you by doing the following:
+## Why does this tool exist?
+
+I'm a podcaster who wants to add transcriptions to my blog posts.  The down side to using a legit transcription service is that it's slow, and expenseive.  Zoom has an out-of-the-box transcription service that outpus a .vtt file for every recording.  
+
+The transcription file is all spaced out and contains time stamps and gaps which makes it difficult to read naturally.
+
+There will still be natual language issues in the file itself.  This is simply meant to clean up the file formatting for easier reading.
+
+## What does Transcribr do?
+
+This simple tool cleans up a VTT file for you by doing the following:
 
 * Remove timestamps
 * Remove blank lines
